@@ -1,4 +1,4 @@
-Hi 👋 My name is Kayoum Djedidi
+Hi 👋 I'm Kayoum Djedidi
 ===============================
 
 Embedded systems developper
