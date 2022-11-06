@@ -1,15 +1,16 @@
 Hi 👋 My name is Kayoum Djedidi
 ===============================
 
-Embedded systems Developer
+Embedded systems developper
 --------------------------
 
-Proud to be the nerdiest tech enthusiast of them all, since a little kid, I've always loved to build things, read books and my passion for learning new things is unmatched, After switching carrer paths from Content creation and graphic design, I've been passionate with improving my C/C++ skills.
+I have a bachelor in Embedded systems, and i'm currently pursuing an engineering degree in Microelectronics & Embedded systems. I'm proud to be the nerdiest tech enthusiast of them all, since a little kid, I've always loved to create things, and my passion for learning is unmatched, After switching carrer paths from Content creation and graphic design twoards embedded systems, I've been passionate with improving my C/C++ skills.
 
-* 🌍  I'm based in Sousse
+* 🌍  I'm based in Sousse, Tunisia.
 * 🖥️  See my portfolio at [Behance portfolio](http://https://www.behance.net/djedidikayoum)
 * ✉️  You can contact me at [djedidikayoum@ieee.org](mailto:djedidikayoum@ieee.org)
-* 🧠  I'm learning Advanced simulation techniques
+* 🧠  I'm learning Advanced simulation techniques and getting familiar with ROS2
+* 🚀  I'm an active volunteer in the IEEE Community, as IEEE Tunisia section community manager, IEEE Tunisia Young professionals AG Webmaster, and IEEE ESSTHS SB Founder and former chairman. 
 * 🤝  I'm open to collaborating on RTOS & linux projects
 * ⚡  Elon musk confirmed to me his alien origins last time we met, dont tell anyone.
 
