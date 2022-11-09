@@ -4,7 +4,7 @@ Hi 👋 I'm Kayoum Djedidi
 Embedded systems developper
 --------------------------
 
-I have a bachelor in Embedded systems, and i'm currently pursuing an engineering degree in Microelectronics & Embedded systems. I'm proud to be the nerdiest tech enthusiast of them all, since a little kid, I've always loved to create things, and my passion for learning is unmatched, After switching carrer paths from Content creation and graphic design twoards embedded systems, I've been passionate with improving my C/C++ skills.
+I have a bachelor in Embedded systems, and i'm currently pursuing an engineering degree in Microelectronics & Embedded systems. I'm proud to be the nerdiest tech enthusiast of them all, since a little kid, I've always loved to create things, and my passion for learning is unmatched, After switching carrer paths from Content creation and graphic design towards embedded systems, I've been passionate with improving my C/C++ skills.
 
 * 🌍  I'm based in Sousse, Tunisia.
 * 🖥️  See my portfolio at [Behance portfolio](http://https://www.behance.net/djedidikayoum)
